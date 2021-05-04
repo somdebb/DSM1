@@ -19,7 +19,7 @@ path_original = r"C:\Users\sombanerjee\Documents\power purchase MIS"
 #os.chdir(r"C:\Users\sombanerjee\Documents\power purchase MIS\WEEK 140920-200920\WEEK 140920-200920\JSEB")
 start_date = 15
 end_date = 21
-month = 3
+month = 4
 if month <= 9:
     file_string = str(0)+str(month)
 else:
